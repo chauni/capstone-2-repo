@@ -35,6 +35,8 @@
 
 **IMPORTANT! Smoke test as you go! Work piece by piece and make sure everything works before you continue on to the next step!**
 
+- Create an index.js file
+
 - National Parks page
 
   - Location Selector
